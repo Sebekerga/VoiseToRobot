@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Речь для робота</string>
+    <string name="speech_prompt">Скажите команду</string>
+    <string name="speech_not_supported">Просите, но ваше устройство не поддерживает голосовой ввод</string>
+    <string name="tap_on_mic">Нажмите на микрофон для отправки команды</string>
+    
+    <string name="forward">вперед</string>
+    <string name="backward">назад</string>
+    <string name="right">право</string>
+    <string name="left">лево</string>
+</resources>
